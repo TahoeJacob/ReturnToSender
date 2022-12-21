@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADP2302ARDZ-5.0-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=2.1
+Released=2019-02-03 12:04:00
+Downloaded=2022-12-11 08:47:51
+3D=Y

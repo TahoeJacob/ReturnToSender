@@ -1,0 +1,9 @@
+Manufacturer=CUI Inc.
+PartNumber=CMT-8503-90-SMT-TR
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2020-03-23 15:07:12
+Downloaded=2022-12-14 05:50:55
+3D=Y

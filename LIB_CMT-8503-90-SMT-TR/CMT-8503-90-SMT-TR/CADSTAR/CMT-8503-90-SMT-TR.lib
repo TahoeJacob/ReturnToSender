@@ -1,0 +1,16 @@
+.CMT-8503-90-SMT-TR :1 ;Audio Buzzer Magnetic 2.5Vo-p 4.5Vo-p 90mA 3.6Vo-p 90dB Surface Mount Solder Pad T/R
+CMT850390SMTTR
+*STM LS
+*NGS
+*PLB 1="+" 2="-" 3="DUMMY PAD_1" 4="DUMMY PAD_2"
+*MXP 4
+*DFN CMT-8503-90-SMT-TR
+~!Mouser Part Number (490-CMT-8503-90SMTTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMT-8503-90-SMT-TR?qs=P1JMDcb91o6FnIL1M3V%252BbQ%3D%3D)
+~!Manufacturer_Name (CUI Inc.)
+~!Manufacturer_Part_Number (CMT-8503-90-SMT-TR)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/97e0f1da7ca52a79df1cb853f8cce368.pdf)
+~!Height (3mm)
+~!3D_Model (CMT-8503-90-SMT-TR)
+CMT-8503-90-SMT-TR
+1.1!U 2.1!U 3.1!U 4.1!U 

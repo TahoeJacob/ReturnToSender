@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/Jacob/Desktop/KiCad/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "EMPCB.SMAFSTJ.B")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/EMPCB.SMAFSTJ.B.HT")(options "")(descr ""))
+  (lib (name "Molex3Con")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/Molex3Con")(options "")(descr ""))
+  (lib (name "L80RE-M37")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/L80RE-M37")(options "")(descr ""))
+  (lib (name "LSM6DSMTR")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/LSM6DSMTR")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/LIB_ADP2302ARDZ-5.0-R7/ADP2302ARDZ-5.0-R7/KiCad")(options "")(descr ""))
+  (lib (name "KiCad2")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/LIB_MBRS330T3G/MBRS330T3G/KiCad2")(options "")(descr ""))
+  (lib (name "CAT6219-330DTG")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/LIB_CAT6219-330TDGT3/CAT6219-330TDGT3/CAT6219-330DTG")(options "")(descr ""))
+  (lib (name "CMT-8503")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/LIB_CMT-8503-90-SMT-TR/CMT-8503-90-SMT-TR/CMT-8503")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/Jacob/Documents/Jacob/Return To Sender/ul_30BQ015PBF/KiCAD/2022-12-14_06-12-19/footprints.pretty")(options "")(descr ""))
+)

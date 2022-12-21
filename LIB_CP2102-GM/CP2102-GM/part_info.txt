@@ -1,0 +1,9 @@
+Manufacturer=Silicon Labs
+PartNumber=CP2102-GM
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=29
+Version=3.1
+Released=2015-10-27 12:49:28
+Downloaded=2022-09-28 10:35:05
+3D=Y

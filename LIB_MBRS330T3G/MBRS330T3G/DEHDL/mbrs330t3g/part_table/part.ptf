@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MBRS330T3G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MBRS330T3G" (!) = "", "DIOM7958X256N", "Diodes Moulded", "863-MBRS330T3G", "https://www.mouser.co.uk/ProductDetail/onsemi/MBRS330T3G?qs=3JMERSakebqQvNYO1akzWA%3D%3D", "", "http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF", "2.56 mm"
+END_PART
+
+END.

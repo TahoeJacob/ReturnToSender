@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAT6219_330TDGT3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "CAT6219-330TDGT3" (!) = "", "SOT95P280X100-5N", "SOT23 (5-Pin)", "698-CAT6219-330TD-G", "https://www.mouser.co.uk/ProductDetail/onsemi/CAT6219-330TDGT3?qs=NSpYCGcNYB%2Ft6t1eUPgO2g%3D%3D", "", "http://www.onsemi.com/pub/Collateral/CAT6219-D.PDF", "1 mm"
+END_PART
+
+END.

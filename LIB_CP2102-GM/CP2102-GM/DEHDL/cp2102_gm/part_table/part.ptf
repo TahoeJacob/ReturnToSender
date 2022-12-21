@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CP2102_GM'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Silicon Labs", "CP2102-GM" (!) = "", "QFN50P500X500X100-29N-D", "Quad Flat No-Lead", "634-CP2102-GM", "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/CP2102-GM?qs=yHCtFi5ROqJvCcyR88R4Pg%3D%3D", "CP2102-GM", "https://www.arrow.com/en/products/cp2102-gm/silicon-labs?region=nac", "", "", "CP2102-GM, USB Controller 12Mbit/s USB 2.0, 3.3 V, 28-Pin, QFN", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e8061a629457dcd57bb8c8d46a00fbc0.pdf", "1 mm"
+END_PART
+
+END.

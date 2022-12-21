@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESP32_WROOM_32E_M113EH3200PS3Q0_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Espressif Systems", "ESP32-WROOM-32E(M113EH3200PS3Q0)" (!) = "", "ESP32WROOM32EM113EH3200PS3Q0", "Other", "356-ESP32WRM320EH3PS", "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32EM113EH3200PS3Q0?qs=sPbYRqrBIVkiZhzSFda8%2FA%3D%3D", "", "", "", "", "WiFi Modules (802.11) SMD module, ESP32-D0WD-V3, ESP32 ECO V3, 4 MB SPI flash, PCB antenna, -40 C ~ +105 C.", "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf", "3.25 mm"
+END_PART
+
+END.

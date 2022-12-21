@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP2302ARDZ_5.0_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP2302ARDZ-5.0-R7" (!) = "", "SOIC127P600X175-9N", "Small Outline Packages", "584-ADP2302ARDZ5.0R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP2302ARDZ-5.0-R7?qs=WIvQP4zGanhELCNRRyZF%252Bw%3D%3D", "Switching Voltage Regulators 2A 700KHz NonSync Step-Down", "", "1.75 mm"
+END_PART
+
+END.

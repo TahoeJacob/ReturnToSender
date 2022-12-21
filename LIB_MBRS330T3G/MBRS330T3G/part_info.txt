@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MBRS330T3G
+PartCategory=Diode
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=1.2
+Released=2015-11-03 12:30:39
+Downloaded=2022-12-11 09:01:23
+3D=Y

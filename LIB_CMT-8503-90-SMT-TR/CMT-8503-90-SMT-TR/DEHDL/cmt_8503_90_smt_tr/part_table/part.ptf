@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CMT_8503_90_SMT_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CUI Inc.", "CMT-8503-90-SMT-TR" (!) = "", "CMT850390SMTTR", "Other", "490-CMT-8503-90SMTTR", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMT-8503-90-SMT-TR?qs=P1JMDcb91o6FnIL1M3V%252BbQ%3D%3D", "Audio Buzzer Magnetic 2.5Vo-p 4.5Vo-p 90mA 3.6Vo-p 90dB Surface Mount Solder Pad T/R", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/97e0f1da7ca52a79df1cb853f8cce368.pdf", "3 mm"
+END_PART
+
+END.

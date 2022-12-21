@@ -1,0 +1,16 @@
+.CAT6219-330TDGT3 :1
+SOT95P280X100-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="BYP/ADJ" 5="VOUT"
+*MXP 5
+*DFN CAT6219-330TDGT3
+~!Mouser Part Number (698-CAT6219-330TD-G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/CAT6219-330TDGT3?qs=NSpYCGcNYB%2Ft6t1eUPgO2g%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (CAT6219-330TDGT3)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/CAT6219-D.PDF)
+~!Height (1mm)
+~!3D_Model (CAT6219-330TDGT3)
+CAT6219-330TDGT3
+1.1!I 2.1!G 3.1!U 4.1!U 5.1!Y 

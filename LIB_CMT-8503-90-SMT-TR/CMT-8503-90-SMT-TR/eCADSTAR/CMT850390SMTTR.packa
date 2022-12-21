@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CMT-8503-90-SMT-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-23-15:07:12)
+    (mountForm default
+        (footprintRef "CMT850390SMTTR")
+        (spec "System")
+    )
+)
