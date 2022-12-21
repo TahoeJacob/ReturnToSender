@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP MAX-M10S-00B
+D GPS Modules u-blox M10 GNSS LCC module, firmware in ROM, SAW filter, LNA
+K
+F https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf
+$ENDCMP
+#
+$CMP ESP32-WROOM-32E_M113EH3200PS3Q0_
+D WiFi Modules (802.11) SMD module, ESP32-D0WD-V3, ESP32 ECO V3, 4 MB SPI flash, PCB antenna, -40 C ~ +105 C.
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+$ENDCMP
+#
+$CMP CP2104-F03-GMR
+D USB-to-UART 1-CH 576byte FIFO 3.3V Automotive 24-Pin QFN EP T/R
+K
+F https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
+$ENDCMP
+#
+$CMP SSM3J328R,LF
+D MOSFET P-Ch Sm Sig FET Id -6A -20V -8VGSS
+K
+F https://componentsearchengine.com/Datasheets/1/SSM3J328R,LF.pdf
+$ENDCMP
+#
+#End Doc Library
